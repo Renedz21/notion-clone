@@ -26,7 +26,7 @@ const Heroes = () => {
                         className="object-contain dark:hidden"
                     />
                     <Image
-                        src='/reading-black.png'
+                        src='/reading-dark.png'
                         alt="Ideas"
                         fill
                         className="object-contain hidden dark:block"
